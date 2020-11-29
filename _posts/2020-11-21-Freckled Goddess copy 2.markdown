@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
+modal-id: 10
+date: 2012-07-15
+img: Freckled goddess.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

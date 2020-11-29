@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: submarine.png
+modal-id: 11
+date: 2012-07-15
+img: Bad Day.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
