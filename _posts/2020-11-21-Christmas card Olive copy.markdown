@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2012-07-15
-img: Christmas card.jpg
+img: christmas card.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

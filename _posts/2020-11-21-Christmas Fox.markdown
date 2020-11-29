@@ -2,7 +2,7 @@
 layout: default
 modal-id: 11
 date: 2012-07-15
-img: Christmas Fox.jpg
+img: christmas fox.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

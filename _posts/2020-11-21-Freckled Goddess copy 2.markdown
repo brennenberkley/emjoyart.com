@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2012-07-15
-img: Freckled goddess.jpg
+img: freckled goddess.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

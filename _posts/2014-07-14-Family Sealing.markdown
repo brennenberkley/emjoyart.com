@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2013-07-10
-img: Family Sealing.jpg
+img: family sealing.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

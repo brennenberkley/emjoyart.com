@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 9
+modal-id: 12
 date: 2012-07-15
-img: Flemingo.jpg
+img: bad day.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

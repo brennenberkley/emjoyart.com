@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-09
-img: Book 2 cover art.jpg
+img: book 2 cover art.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
