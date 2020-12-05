@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2012-07-15
-img: Burning at both ends.jpg
+img: burning at both ends.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

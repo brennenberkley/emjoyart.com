@@ -25,6 +25,16 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+a.about-link,
+a.about-link:hover,
+a.about-link:focus,
+a.about-link:active,
+a.about-link.active
+{
+   color: inherit;
+   text-decoration: underline;
+}
+
 h1,
 h2,
 h3,
