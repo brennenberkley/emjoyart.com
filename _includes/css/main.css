@@ -498,3 +498,43 @@ footer .footer-below {
     width: 130px;
     text-align: center;
 }
+
+.spacer {
+    height: 50px;
+}
+
+@media(max-width:991px) {
+    .olive {
+        width: 80%;
+        max-width: 300px;
+        margin: auto;
+        display: block;
+        margin-bottom: -75px;
+    }
+}
+
+@media(min-width:767px) {
+    .olive {
+        margin-bottom: -100px;
+    }
+}
+
+
+@media(min-width:992px) {
+    .olive {
+        position: absolute;
+        bottom: 0;
+        width: 300px;
+        right: 50px;
+        margin-bottom: 0;
+    }
+
+
+    .about-right-column {
+        position: unset;
+    }
+
+    section.success {
+        position: relative;
+    }
+}
