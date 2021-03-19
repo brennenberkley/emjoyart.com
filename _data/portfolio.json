@@ -1,0 +1,63 @@
+[
+  {
+    title: "Family Bouquet",
+    image: "family-bouquet.jpg",
+    thumbnail: "family-bouquet-thumbnail.jpg",
+    description: "Flower bouquet representing the clients family and their story of adoption, miscarriages, and live births."
+  },
+  {
+    title: "Book 1 Cover",
+    image: "book-1-cover-art.jpg",
+    thumbnail: "book-1-cover-art-thumbnail.jpg"
+  },
+  {
+    title: "Book 2 Cover",
+    image: "book-2-cover-art.jpg",
+    thumbnail: "book-2-cover-art-thumbnail.jpg"
+  },
+  {
+    title: "Family",
+    image: "family.jpg",
+    thumbnail: "family-thumbnail.jpg"
+  },
+  {
+    title: "Family Sealing",
+    image: "family-sealing.jpg",
+    thumbnail: "family-sealing-thumbnail.jpg"
+  },
+  {
+    title: "Balloon",
+    image: "balloon-fiesta.jpg",
+    thumbnail: "balloon-fiesta-thumbnail.jpg"
+  },
+  {
+    title: "Burning at Both Ends",
+    image: "burning-at-both-ends.jpg",
+    thumbnail: "burning-at-both-ends-thumbnail.jpg"
+  },
+  {
+    title: "Christmas card",
+    image: "christmas-card.jpg",
+    thumbnail: "christmas-card-thumbnail.jpg"
+  },
+  {
+    title: "Flemingo",
+    image: "flemingo.jpg",
+    thumbnail: "flemingo-thumbnail.jpg"
+  },
+  {
+    title: "Freckled Goddess",
+    image: "freckled-goddess.jpg",
+    thumbnail: "freckled-goddess-thumbnail.jpg"
+  },
+  {
+    title: "Christmas Fox",
+    image: "christmas-fox.jpg",
+    thumbnail: "christmas-fox-thumbnail.jpg"
+  },
+  {
+    title: "Bad Day",
+    image: "bad-day.jpg",
+    thumbnail: "bad-day-thumbnail.jpg"
+  }
+]
