@@ -59,5 +59,35 @@
     title: "Bad Day",
     image: "bad-day.jpg",
     thumbnail: "bad-day-thumbnail.jpg"
+  },
+  {
+    title: "Egg",
+    image: "egg.jpg",
+    thumbnail: "egg-thumbnail.jpg"
+  },
+  {
+    title: "Bagel",
+    image: "bagel.jpg",
+    thumbnail: "bagel-thumbnail.jpg"
+  },
+  {
+    title: "Toast",
+    image: "toast.jpg",
+    thumbnail: "toast-thumbnail.jpg"
+  },
+  {
+    title: "Waffle",
+    image: "waffle.jpg",
+    thumbnail: "waffle-thumbnail.jpg"
+  },
+  {
+    title: "Flowers",
+    image: "flowers.jpg",
+    thumbnail: "flowers-thumbnail.jpg"
+  },
+  {
+    title: "Fish",
+    image: "fish.jpg",
+    thumbnail: "fish-thumbnail.jpg"
   }
 ]
