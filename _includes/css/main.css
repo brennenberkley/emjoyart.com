@@ -484,7 +484,7 @@ footer .footer-below {
 }
 
 .header-image {
-    max-width: 300px;
+    max-width: 400px;
 }
 
 .display-none {
@@ -549,4 +549,15 @@ footer .footer-below {
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
     color: #{{ site.color.primary-light }};
+}
+
+.nav-container {
+    max-width: 970px;
+}
+
+@media(min-width:768px) and (max-width:802px) {
+    .nav-container .navbar-nav a {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }

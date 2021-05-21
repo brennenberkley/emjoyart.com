@@ -1,0 +1,26 @@
+[
+  {
+    title: "Egg",
+    image: "egg.jpg",
+    thumbnail: "egg-thumbnail.jpg",
+    description: "$100"
+  },
+  {
+    title: "Bagel",
+    image: "bagel.jpg",
+    thumbnail: "bagel-thumbnail.jpg",
+    description: "$100"
+  },
+  {
+    title: "Toast",
+    image: "toast.jpg",
+    thumbnail: "toast-thumbnail.jpg",
+    description: "$100"
+  },
+  {
+    title: "Waffle",
+    image: "waffle.jpg",
+    thumbnail: "waffle-thumbnail.jpg",
+    description: "$100"
+  }
+]
