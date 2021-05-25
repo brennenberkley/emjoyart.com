@@ -8,19 +8,21 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div class="portfolio-flex-row">
-                {% for item in site.data.shop %}
-                    <div class="portfolio-flex-item portfolio-item">
-                        <a href="#portfolioModal-{{ forloop.index }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="/img/shop/{{ item.thumbnail }}" class="img-responsive" alt="{{ item.title }}">
-                        </a>
-                    </div>
-                {% endfor %}
+            <div class="row">
+                <div class="col-sm-5 col-sm-offset-1">
+                    <a href="/shop_originals">
+                        <div class="link-box">
+                            Originals
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-5">
+                    <a href="https://society6.com/emjoycreates" target="_blank">
+                        <div class="link-box">
+                            Society 6
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </section>

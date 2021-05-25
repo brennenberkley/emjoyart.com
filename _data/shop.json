@@ -1,26 +1,31 @@
 [
   {
     title: "Egg",
-    image: "egg.jpg",
+    images: ["egg.jpg"],
     thumbnail: "egg-thumbnail.jpg",
-    description: "$100"
+    price: 100,
+    size: "9 x 12"
   },
   {
     title: "Bagel",
-    image: "bagel.jpg",
+    images: ["bagel.jpg"],
     thumbnail: "bagel-thumbnail.jpg",
-    description: "$100"
+    price: 100,
+    size: "9 x 12"
   },
   {
     title: "Toast",
-    image: "toast.jpg",
+    images: ["toast.jpg"],
     thumbnail: "toast-thumbnail.jpg",
-    description: "$100"
+    price: 100,
+    size: "9 x 12"
   },
   {
     title: "Waffle",
-    image: "waffle.jpg",
+    images: ["waffle.jpg", "waffle-side.jpg"],
     thumbnail: "waffle-thumbnail.jpg",
-    description: "$100"
+    description: "Description of a waffle",
+    price: 100,
+    size: "9 x 12"
   }
 ]

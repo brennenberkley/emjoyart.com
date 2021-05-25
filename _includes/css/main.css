@@ -561,3 +561,28 @@ footer .footer-below {
         padding-right: 10px;
     }
 }
+
+.link-box {
+    border: 1px solid gray;
+    text-align: center;
+    min-height: 200px;
+}
+
+@media(min-width: 630px) {
+    .portfolio-image {
+        max-width: 600px;
+    }
+}
+
+.portfolio-image {
+    max-height: 600px;
+    display: block;
+}
+
+p.price {
+    font-size: 200%;
+}
+
+p.size {
+    font-size: 200%;
+}

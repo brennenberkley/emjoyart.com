@@ -14,7 +14,11 @@
                         <div class="modal-body">
                             <h2>{{ item.title }}</h2>
                             <hr class="star-primary">
-                            <img src="/img/shop/{{ item.image }}" class="img-responsive img-centered" alt="{{ item.title }}">
+                            {% for image in item.images %}
+                                <img src="/img/shop/{{ image }}" class="img-responsive img-centered portfolio-image">
+                            {% endfor %}
+                            <p class="price">${{ item.price }}</p>
+                            <p class="size">{{ item.size }}</p>
                             {% if item.description %}
                                 <p>{{ item.description }}</p>
                             {% endif %}
