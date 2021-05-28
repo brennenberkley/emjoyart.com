@@ -8,17 +8,11 @@
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>{{ item.title }}</h2>
-                            <hr class="star-primary">
-                            <img src="/img/portfolio/{{ item.image }}" class="img-responsive img-centered" alt="{{ item.title }}">
-                            {% if item.description %}
-                                <p>{{ item.description }}</p>
-                            {% endif %}
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            <div class="container one-hundred">
+                <div class="row one-hundred">
+                    <div class="col-lg-8 col-lg-offset-2 one-hundred">
+                        <div class="modal-body one-hundred">
+                            <img src="/img/portfolio/{{ item.image }}" class="img-responsive img-centered portfolio-image" alt="{{ item.title }}">
                         </div>
                     </div>
                 </div>

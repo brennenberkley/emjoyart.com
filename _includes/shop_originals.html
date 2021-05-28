@@ -9,18 +9,16 @@
                 </div>
             </div>
             <div class="portfolio-flex-row">
-                {% for item in site.data.shop %}
+                {% for item in site.data.shop.allProducts %}
                     <div class="portfolio-flex-item portfolio-item">
-                        <a href="#portfolioModal-{{ forloop.index }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
+                        <a href="/shop_originals/{{ item }}/index.html" class="original-link">
+                            <img src="/img/shop/{{ site.data.shop[item].thumbnail }}" class="img-responsive" alt="{{ site.data.shop[item].title }}">
+                            <div class="shadow-caption">
                             </div>
-                            <img src="/img/shop/{{ item.thumbnail }}" class="img-responsive" alt="{{ item.title }}">
                         </a>
                     </div>
                 {% endfor %}
             </div>
         </div>
     </section>
+

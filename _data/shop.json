@@ -1,31 +1,37 @@
-[
-  {
-    title: "Egg",
-    images: ["egg.jpg"],
-    thumbnail: "egg-thumbnail.jpg",
-    price: 100,
-    size: "9 x 12"
+{
+  "egg": {
+    "title": "Egg",
+    "images": ["egg.jpg", "egg-side.jpg"],
+    "thumbnail": "egg-thumbnail.jpg",
+    "size": "9 x 12",
+    "price": 100
   },
-  {
-    title: "Bagel",
-    images: ["bagel.jpg"],
-    thumbnail: "bagel-thumbnail.jpg",
-    price: 100,
-    size: "9 x 12"
+  "bagel": {
+    "title": "Bagel",
+    "images": ["bagel.jpg", "bagel-side.jpg"],
+    "thumbnail": "bagel-thumbnail.jpg",
+    "size": "9 x 12",
+    "price": 100
   },
-  {
-    title: "Toast",
-    images: ["toast.jpg"],
-    thumbnail: "toast-thumbnail.jpg",
-    price: 100,
-    size: "9 x 12"
+  "toast": {
+    "title": "Toast",
+    "images": ["toast.jpg", "toast-side.jpg"],
+    "thumbnail": "toast-thumbnail.jpg",
+    "size": "9 x 12",
+    "price": 100
   },
-  {
-    title: "Waffle",
-    images: ["waffle.jpg", "waffle-side.jpg"],
-    thumbnail: "waffle-thumbnail.jpg",
-    description: "Description of a waffle",
-    price: 100,
-    size: "9 x 12"
-  }
-]
+  "waffle": {
+    "title": "Waffle",
+    "images": ["waffle.jpg", "waffle-side.jpg"],
+    "thumbnail": "waffle-thumbnail.jpg",
+    "description": "Description of a waffle",
+    "size": "9 x 12",
+    "price": 100
+  },
+  "allProducts": [
+    "egg",
+    "bagel",
+    "toast",
+    "waffle"
+  ]
+}
