@@ -636,3 +636,7 @@ section#original {
 .original-link:hover .shadow-caption {
     display: block;
 }
+
+.btn-shop {
+    margin: 15px 5px;
+}
